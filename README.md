@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @RiddhiBandyopadhyay, a learner and tech enthusiast
+- 👀 I’m interested in everything related to tech, specially in web
+- 🌱 I’m currently learning full stack web development and DSA in depth
+- 💞️ I’m looking to collaborate on open sources
